@@ -48,6 +48,6 @@ body {
     border-top-left-radius: 100%;
 }
 
-.select {
+.selected {
     opacity: 0.6;
 }
